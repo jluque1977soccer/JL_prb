@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
 		<?php
 		   echo "pagina de prueba";
+		   echo "disculpen las molestias";
 		?>
     </body>
 </html>
