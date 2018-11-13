@@ -13,6 +13,8 @@ and open the template in the editor.
 		<?php
 		   echo "pagina de prueba";
 		   echo "disculpen las molestias";
+		   echo "no vale todo esto para nada, solo para probar";
+		   echo "otro nuevo cambio a ver como se comporta el sourcetree";
 		?>
     </body>
 </html>
