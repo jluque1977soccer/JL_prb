@@ -16,5 +16,7 @@ and open the template in the editor.
 		   echo "no vale todo esto para nada, solo para probar";
 		   echo "otro nuevo cambio a ver como se comporta el sourcetree";
 		?>
+		<h2>vaya carajaso que tengo hoy, con lo chungo que estoy</h2>
+		<h3>voy a crear un conflicto</h3>
     </body>
 </html>
